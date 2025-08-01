@@ -1,0 +1,8 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {}
+}
+
+git remote add origin https://github.com/mbz1372/Personal-Next.git
+git checkout -b my-feature
+git push -u origin my-feature
